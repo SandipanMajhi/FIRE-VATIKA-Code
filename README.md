@@ -1,4 +1,6 @@
-# FIRE-VATIKA-Code
+# Mixed Finetuning with Synthetic Data
+
+![Mixed Finetuning Strategy](Fire_VATIKA.png)
 
 Find code suggestions at `jobs.sh`.
 
