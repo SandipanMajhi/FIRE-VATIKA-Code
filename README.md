@@ -2,8 +2,6 @@
 
 ![Mixed Finetuning Strategy](Fire_VATIKA.png)
 
-Find code suggestions at `jobs.sh`.
-
 ## Steps ###
 All code suggestions and how to run is present in `jobs.sh`
 ```
