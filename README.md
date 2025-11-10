@@ -2,6 +2,14 @@
 
 Find code suggestions at `jobs.sh`.
 
+## Steps ###
+All code suggestions and how to run is present in `jobs.sh`
+```
+  1. Prepare Dataset from json/ create synthetic data using LLM
+  2. Mixed Mode Finetuning.
+  3. Inference
+```
+
 
 ## Paper Citation ##
 
